@@ -1,5 +1,3 @@
-
-
 ## 👋 &nbsp;Hey there! I'm Bintang
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -14,9 +12,10 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="left">
-<a href="https://github.com/sekarmk03">
+<a href="https://github.com/bintangfajarr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bintangfajarr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfajarr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bintangfajarr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
