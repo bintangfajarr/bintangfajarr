@@ -1,21 +1,22 @@
-## 👋 &nbsp;Hey there! I'm Bintang
+### Hi there 👋
 
-### 👨🏻‍💻 &nbsp;About Me
+<!--
+**sekarmk03/sekarmk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🎓 &nbsp;I'm currently studying Computer Science at Universitas Pendidikan Indonesia.\
+Here are some ideas to get you started:
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <p align="left">
-<a href="https://github.com/bintangfajarr">
+<a href="https://github.com/sekarmk03">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bintangfajarr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bintangfajarr&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bintangfajarr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
