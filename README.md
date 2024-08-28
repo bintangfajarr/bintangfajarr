@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="left">
 <a href="https://github.com/bintangfajarr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bintangfajarr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 </p>
 
 ![](https://komarev.com/ghpvc/?username=bintangfajarr)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ryuutoranosuke?ext=contest)
