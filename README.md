@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=bintangfajarr)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ryuutoranosuke?ext=contest)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bintangfajarr)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=bintangfajarr)
