@@ -169,6 +169,6 @@ My name is Muhammad Cahyana Bintang Fajar and I'm currently an undergraduate com
 </a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ryuutoranosuke?ext=contest)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bintangfajarr)](https://git.io/streak-stats)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/ryuutoranosuke?ext=contest)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bintangfajarr)](https://git.io/streak-stats)-->
 ![](https://komarev.com/ghpvc/?username=bintangfajarr)
