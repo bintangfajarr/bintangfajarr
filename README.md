@@ -162,12 +162,12 @@ My name is Muhammad Cahyana Bintang Fajar and I'm currently an undergraduate com
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/bintangfajarr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bintangfajarr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bintangfajarr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/ryuutoranosuke?ext=contest)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bintangfajarr)](https://git.io/streak-stats)-->
